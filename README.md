@@ -1,4 +1,5 @@
 FortiFide 🚀
+
 MERN Auth: 2FA, Email Verification, Cookies, Sessions, and JWT with Node.js & Next.js
 
 FortiFide is a powerful, secure, and modern authentication system designed to meet the needs of developers and enterprises. Built on the MERN stack, it provides robust features like Two-Factor Authentication (2FA), email verification, session management, and JWT-based stateless authentication to secure your applications.
