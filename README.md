@@ -17,32 +17,4 @@ Backend: Node.js, Express.js
 Database: MongoDB
 Security: Secure cookies, encryption, and industry-standard authentication mechanisms
 
-🚀 Getting Started
 
-Prerequisites:
-Node.js and npm installed
-MongoDB database connection
-
-Steps to Run Locally
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/yourusername/fortifide.git  
-cd fortifide  
-
-Install dependencies:
-bash
-Copy code:
-npm install  
-
-Set up environment variables in .env:
-MONGO_URI: Your MongoDB connection string
-
-JWT_SECRET: Your secret key for JWT
-EMAIL_API_KEY: API key for the email service
-
-Run the application:
-bash
-Copy code
-npm run dev  
